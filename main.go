@@ -1,7 +1,9 @@
 package main
 
-import "go-exercise/leaf/client"
+import (
+	"fmt"
+)
 
 func main() {
-	client.Run()
+	fmt.Println("There just temporary code")
 }
